@@ -99,8 +99,7 @@ Anti-bot fingerprint RE — Cloudflare/Akamai/DataDome/Kasada/PerimeterX/Aliyun 
 
 <div align="center">
 
-<img src="assets/github-stats.svg" width="48%" alt="GitHub Stats" />
-<img src="assets/top-languages.svg" width="48%" alt="Top Languages" />
+<img src="assets/metrics.svg" width="95%" alt="GitHub Metrics" />
 
 </div>
 
