@@ -99,17 +99,8 @@ Anti-bot fingerprint RE — Cloudflare/Akamai/DataDome/Kasada/PerimeterX/Aliyun 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waguriagentic&theme=dark" width="95%" alt="Profile Details" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waguriagentic&theme=dark" width="46%" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=waguriagentic&theme=dark" width="46%" alt="Most Commit Language" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=waguriagentic&theme=dark" width="46%" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=waguriagentic&theme=dark&utcOffset=7" width="46%" alt="Productive Time" />
+<img src="assets/github-stats.svg" width="48%" alt="GitHub Stats" />
+<img src="assets/top-languages.svg" width="48%" alt="Top Languages" />
 
 </div>
 
